@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Breaking Bad",
+    "seasons": 5,
+    "rating": 9.5,
+    "characters": [
+      "Walter White",
+      "Jesse Pinkman",
+      "Skyler White",
+      "Saul Goodman"
+    ],
+    "poster": "https://m.media-amazon.com/images/I/81yKq+YhWGL._AC_SY679_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Game of Thrones",
+    "seasons": 8,
+    "rating": 9.2,
+    "characters": [
+      "Jon Snow",
+      "Daenerys Targaryen",
+      "Tyrion Lannister",
+      "Arya Stark"
+    ],
+    "poster": "https://m.media-amazon.com/images/I/91djF3sJ4FL._AC_SY679_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Stranger Things",
+    "seasons": 4,
+    "rating": 8.7,
+    "characters": [
+      "Eleven",
+      "Mike Wheeler",
+      "Dustin Henderson",
+      "Lucas Sinclair"
+    ],
+    "poster": "https://m.media-amazon.com/images/I/81v2X4h3ZGL._AC_SY679_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "The Walking Dead",
+    "seasons": 11,
+    "rating": 8.1,
+    "characters": [
+      "Rick Grimes",
+      "Daryl Dixon",
+      "Michonne",
+      "Negan"
+    ],
+    "poster": "https://m.media-amazon.com/images/I/91xQY+6p1WL._AC_SY679_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Money Heist",
+    "seasons": 5,
+    "rating": 8.2,
+    "characters": [
+      "The Professor",
+      "Tokyo",
+      "Berlin",
+      "Rio"
+    ],
+    "poster": "https://m.media-amazon.com/images/I/91X2Yz7xZTL._AC_SY679_.jpg"
+  },
+  {
+    "id": 6,
+    "name": "The Boys",
+    "seasons": 4,
+    "rating": 8.7,
+    "characters": [
+      "Homelander",
+      "Billy Butcher",
+      "Hughie Campbell",
+      "Starlight"
+    ],
+    "poster": "https://m.media-amazon.com/images/I/81Rz8R4YJAL._AC_SY679_.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Sherlock",
+    "seasons": 4,
+    "rating": 9.1,
+    "characters": [
+      "Sherlock Holmes",
+      "John Watson",
+      "Mycroft Holmes",
+      "Moriarty"
+    ],
+    "poster": "https://m.media-amazon.com/images/I/81m3B2U9CQL._AC_SY679_.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Peaky Blinders",
+    "seasons": 6,
+    "rating": 8.8,
+    "characters": [
+      "Thomas Shelby",
+      "Arthur Shelby",
+      "Polly Gray",
+      "Alfie Solomons"
+    ],
+    "poster": "https://m.media-amazon.com/images/I/91r2Q0mKjIL._AC_SY679_.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Dark",
+    "seasons": 3,
+    "rating": 8.8,
+    "characters": [
+      "Jonas Kahnwald",
+      "Martha Nielsen",
+      "Adam",
+      "Claudia Tiedemann"
+    ],
+    "poster": "https://m.media-amazon.com/images/I/81bH5ZP0tXL._AC_SY679_.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Vikings",
+    "seasons": 6,
+    "rating": 8.5,
+    "characters": [
+      "Ragnar Lothbrok",
+      "Lagertha",
+      "Bjorn Ironside",
+      "Ivar the Boneless"
+    ],
+    "poster": "https://m.media-amazon.com/images/I/91z+V7UQxWL._AC_SY679_.jpg"
+  }
+]
