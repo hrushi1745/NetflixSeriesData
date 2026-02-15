@@ -11,7 +11,7 @@
       "Kukoo",
       "Anjali Mathur"
     ],
-    "poster": "https://upload.wikimedia.org/wikipedia/en/2/2b/Sacred_Games_poster.jpg"
+    "banner": "https://image.tmdb.org/t/p/original/7lZQK6KqYd9RCcQWZ9RZ1xXbYpG.jpg"
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@
       "Bablu Pandit",
       "Munna Tripathi"
     ],
-    "poster": "https://upload.wikimedia.org/wikipedia/en/5/5b/Mirzapur_Season_1.jpg"
+    "banner": "https://image.tmdb.org/t/p/original/9VZ6wP9K8mWwFJ9k0s5momkGLum.jpg"
   },
   {
     "id": 3,
@@ -39,7 +39,7 @@
       "JK Talpade",
       "Raji"
     ],
-    "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/The_Family_Man.jpeg"
+    "banner": "https://image.tmdb.org/t/p/original/lS8sz0vGZ2zYxYgHkncNHNrF4Pq.jpg"
   },
   {
     "id": 4,
@@ -53,7 +53,7 @@
       "Suchitra Dalal",
       "Manu Mundra"
     ],
-    "poster": "https://upload.wikimedia.org/wikipedia/en/9/9a/Scam_1992_poster.jpg"
+    "banner": "https://image.tmdb.org/t/p/original/z8K8v0D7sZ6kRDeo63HgNbUsVTN.jpg"
   },
   {
     "id": 5,
@@ -67,7 +67,7 @@
       "Jim",
       "Nandini"
     ],
-    "poster": "https://upload.wikimedia.org/wikipedia/en/c/c3/Pathaan_film_poster.jpg"
+    "banner": "https://image.tmdb.org/t/p/original/9iQWsXwjOMGDvTDdvCnpiyR0UG3.jpg"
   },
   {
     "id": 6,
@@ -81,7 +81,7 @@
       "Narmada",
       "Kalee"
     ],
-    "poster": "https://upload.wikimedia.org/wikipedia/en/3/3e/Jawan_film_poster.jpg"
+    "banner": "https://image.tmdb.org/t/p/original/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg"
   },
   {
     "id": 7,
@@ -95,7 +95,7 @@
       "Raju",
       "Virus"
     ],
-    "poster": "https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg"
+    "banner": "https://image.tmdb.org/t/p/original/66A9MqXOyVFCssoloscw79z8Tew.jpg"
   },
   {
     "id": 8,
@@ -109,7 +109,7 @@
       "Babita Phogat",
       "Omkar"
     ],
-    "poster": "https://upload.wikimedia.org/wikipedia/en/9/99/Dangal_Poster.jpg"
+    "banner": "https://image.tmdb.org/t/p/original/wc1JxW0wGdV9sV7z9ZP7uB9gQZz.jpg"
   },
   {
     "id": 9,
@@ -123,7 +123,7 @@
       "IG Meera Deshmukh",
       "Anju"
     ],
-    "poster": "https://upload.wikimedia.org/wikipedia/en/8/8c/Drishyam_2015_film_poster.jpg"
+    "banner": "https://image.tmdb.org/t/p/original/1Z01r0H5m9xj6Yyqn1nVbWcv16O.jpg"
   },
   {
     "id": 10,
@@ -137,6 +137,6 @@
       "Naina",
       "Colonel Luthra"
     ],
-    "poster": "https://upload.wikimedia.org/wikipedia/en/6/6c/War_film_poster.jpg"
+    "banner": "https://image.tmdb.org/t/p/original/5KCVkau1HEl7ZzfPsKAPM0sMiKc.jpg"
   }
 ]
