@@ -11,7 +11,7 @@
       "Kukoo",
       "Anjali Mathur"
     ],
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTE3MGI4YzQtZWYxZS00NjJjLTkxNmEtOTAyZjgxNzM1ZDY1XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UX300_.jpg"
+    "poster": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/catalog-widget-placeholder.png"
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@
       "Bablu Pandit",
       "Munna Tripathi"
     ],
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmQ1ZWM0MGQtYzFhMC00MjQ4LWJkNzMtNmYzY2Q3ZjZmYjQ3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UX300_.jpg"
+    "poster": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/owl.jpg"
   },
   {
     "id": 3,
@@ -39,7 +39,7 @@
       "JK Talpade",
       "Raji"
     ],
-    "poster": "https://m.media-amazon.com/images/M/MV5BODU4MzQzNjEtNmY2OC00Y2UxLTk2YzMtOTQ4YjYzODg5ZDU2XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UX300_.jpg"
+    "poster": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/dash/dash-fainting.gif"
   },
   {
     "id": 4,
@@ -53,7 +53,7 @@
       "Suchitra Dalal",
       "Manu Mundra"
     ],
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkOTYxMzQtODQ1My00YWE3LTg3YjAtNGQ2Y2YyYjJkZjk3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UX300_.jpg"
+    "poster": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/catalog-widget-placeholder.png"
   },
   {
     "id": 5,
@@ -67,7 +67,7 @@
       "Jim",
       "Nandini"
     ],
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjUzODUxNjAtY2Q3Zi00Y2Q1LWE4MjktN2Q0M2Q5ZTZlN2NjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UX300_.jpg"
+    "poster": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/owl.jpg"
   },
   {
     "id": 6,
@@ -81,7 +81,7 @@
       "Narmada",
       "Kalee"
     ],
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDQ0NzI4MWQtZGY5ZS00YjlhLWIyOWEtNzJhMzJhYzY3ZDU1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UX300_.jpg"
+    "poster": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/catalog-widget-placeholder.png"
   },
   {
     "id": 7,
@@ -95,7 +95,7 @@
       "Raju",
       "Virus"
     ],
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNzM2NF5BMl5BanBnXkFtZTcwOTkzOTQ3Mg@@._V1_UX300_.jpg"
+    "poster": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/owl.jpg"
   },
   {
     "id": 8,
@@ -109,7 +109,7 @@
       "Babita Phogat",
       "Omkar"
     ],
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5Nzc4NzYzNF5BMl5BanBnXkFtZTgwODg4NjU3OTE@._V1_UX300_.jpg"
+    "poster": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/catalog-widget-placeholder.png"
   },
   {
     "id": 9,
@@ -123,7 +123,7 @@
       "IG Meera Deshmukh",
       "Anju"
     ],
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmJhZDM3OTMtYjYzZS00ZmQ5LWFjNDctODI0MjM1NzY4NzQyXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UX300_.jpg"
+    "poster": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/owl.jpg"
   },
   {
     "id": 10,
@@ -137,6 +137,6 @@
       "Naina",
       "Colonel Luthra"
     ],
-    "poster": "https://m.media-amazon.com/images/M/MV5BODI4NDcxNjktNzYxYi00ZDI1LTljNjUtYzY0ZDFkMzFhZTBjXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UX300_.jpg"
+    "poster": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/catalog-widget-placeholder.png"
   }
 ]
