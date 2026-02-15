@@ -11,7 +11,7 @@
       "Kukoo",
       "Anjali Mathur"
     ],
-    "banner": "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/AkPMyi7Lk5dZpY4jWJ3zWv0z8nX.jpg"
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@
       "Bablu Pandit",
       "Munna Tripathi"
     ],
-    "banner": "https://images.unsplash.com/photo-1505685296765-3a2736de412f.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/4rO7g0sJ6d9Z4gkVQnX0pW0z0XT.jpg"
   },
   {
     "id": 3,
@@ -39,7 +39,7 @@
       "JK Talpade",
       "Raji"
     ],
-    "banner": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/7kR8k6YjFv9ZpY4jWJ3zWv0z8nX.jpg"
   },
   {
     "id": 4,
@@ -53,7 +53,7 @@
       "Suchitra Dalal",
       "Manu Mundra"
     ],
-    "banner": "https://images.unsplash.com/photo-1497032205916-ac775f0649ae.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/9VZ6wP9K8mWwFJ9k0s5momkGLum.jpg"
   },
   {
     "id": 5,
@@ -67,7 +67,7 @@
       "Jim",
       "Nandini"
     ],
-    "banner": "https://images.unsplash.com/photo-1536440136628-849c177e76a1.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/vqu4z0jXHj5r0pG2YbKj4rW9XzG.jpg"
   },
   {
     "id": 6,
@@ -81,7 +81,7 @@
       "Narmada",
       "Kalee"
     ],
-    "banner": "https://images.unsplash.com/photo-1518929458119-e5bf444c30f4.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg"
   },
   {
     "id": 7,
@@ -95,7 +95,7 @@
       "Raju",
       "Virus"
     ],
-    "banner": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/66A9MqXOyVFCssoloscw79z8Tew.jpg"
   },
   {
     "id": 8,
@@ -109,7 +109,7 @@
       "Babita Phogat",
       "Omkar"
     ],
-    "banner": "https://images.unsplash.com/photo-1542204165-65bf26472b9b.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/p2lVAcPuRPSO8Al6hDDGw0OgMi.jpg"
   },
   {
     "id": 9,
@@ -123,7 +123,7 @@
       "IG Meera Deshmukh",
       "Anju"
     ],
-    "banner": "https://images.unsplash.com/photo-1478720568477-152d9b164e26.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/kQ9wT9jJ4lCz9j1qvRzKj6k8n5.jpg"
   },
   {
     "id": 10,
@@ -137,6 +137,6 @@
       "Naina",
       "Colonel Luthra"
     ],
-    "banner": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/yI3e7iF2qZCk3NqG9pGz8k6L9o.jpg"
   }
 ]
