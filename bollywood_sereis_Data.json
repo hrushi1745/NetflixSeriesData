@@ -11,7 +11,7 @@
       "Kukoo",
       "Anjali Mathur"
     ],
-    "banner": "https://image.tmdb.org/t/p/original/7lZQK6KqYd9RCcQWZ9RZ1xXbYpG.jpg"
+    "banner": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/catalog-widget-placeholder.png"
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@
       "Bablu Pandit",
       "Munna Tripathi"
     ],
-    "banner": "https://image.tmdb.org/t/p/original/9VZ6wP9K8mWwFJ9k0s5momkGLum.jpg"
+    "banner": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/owl.jpg"
   },
   {
     "id": 3,
@@ -39,7 +39,7 @@
       "JK Talpade",
       "Raji"
     ],
-    "banner": "https://image.tmdb.org/t/p/original/lS8sz0vGZ2zYxYgHkncNHNrF4Pq.jpg"
+    "banner": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/owl.jpg"
   },
   {
     "id": 4,
@@ -53,7 +53,7 @@
       "Suchitra Dalal",
       "Manu Mundra"
     ],
-    "banner": "https://image.tmdb.org/t/p/original/z8K8v0D7sZ6kRDeo63HgNbUsVTN.jpg"
+    "banner": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/catalog-widget-placeholder.png"
   },
   {
     "id": 5,
@@ -67,7 +67,7 @@
       "Jim",
       "Nandini"
     ],
-    "banner": "https://image.tmdb.org/t/p/original/9iQWsXwjOMGDvTDdvCnpiyR0UG3.jpg"
+    "banner": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/owl.jpg"
   },
   {
     "id": 6,
@@ -81,7 +81,7 @@
       "Narmada",
       "Kalee"
     ],
-    "banner": "https://image.tmdb.org/t/p/original/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg"
+    "banner": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/catalog-widget-placeholder.png"
   },
   {
     "id": 7,
@@ -95,7 +95,7 @@
       "Raju",
       "Virus"
     ],
-    "banner": "https://image.tmdb.org/t/p/original/66A9MqXOyVFCssoloscw79z8Tew.jpg"
+    "banner": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/owl.jpg"
   },
   {
     "id": 8,
@@ -109,7 +109,7 @@
       "Babita Phogat",
       "Omkar"
     ],
-    "banner": "https://image.tmdb.org/t/p/original/wc1JxW0wGdV9sV7z9ZP7uB9gQZz.jpg"
+    "banner": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/catalog-widget-placeholder.png"
   },
   {
     "id": 9,
@@ -123,7 +123,7 @@
       "IG Meera Deshmukh",
       "Anju"
     ],
-    "banner": "https://image.tmdb.org/t/p/original/1Z01r0H5m9xj6Yyqn1nVbWcv16O.jpg"
+    "banner": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/owl.jpg"
   },
   {
     "id": 10,
@@ -137,6 +137,6 @@
       "Naina",
       "Colonel Luthra"
     ],
-    "banner": "https://image.tmdb.org/t/p/original/5KCVkau1HEl7ZzfPsKAPM0sMiKc.jpg"
+    "banner": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/catalog-widget-placeholder.png"
   }
 ]
